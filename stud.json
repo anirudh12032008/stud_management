@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Anirudh",
+        "username": "ani",
+        "password": "a",
+        "age": "15",
+        "skills": [
+            "node",
+            "react",
+            "python"
+        ]
+    }
+]
